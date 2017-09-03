@@ -6,3 +6,5 @@ const portName = process.argv[2];
 
 
 //change to check if git works
+
+//changes to check fetch
